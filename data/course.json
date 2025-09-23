@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2019",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Syntax"
+    ]
+  ],
+  "legacy_uid": "dbc307f6-d8a5-1617-b10a-b316b2c5e29a",
+  "instructors": {
+    "content": [
+      "29b32028-314d-55a5-e5a8-7770ba8ab63a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "108812cd-1d06-b4af-a8ac-d96858113964",
+    "website": "24-914-language-variation-and-change-spring-2019"
+  },
+  "course_title": "Language Variation and Change",
+  "course_description": "All languages vary across geographic space and between social groups, and languages are always changing. It makes sense to study these phenomena together because they are intimately related: language change is the basic source of language variation. So studying language change can help us to understand variation, and the nature of linguistic variation provides evidence as to how language changes. Both illuminate the nature of grammar. The course will focus largely on variation and change in phonetics and phonology, and most case studies will be drawn from the English language.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.914",
+  "course_image_thumbnail": {
+    "content": "85fecb93-c1af-e2c1-e8a2-301d3dda3c1a",
+    "website": "24-914-language-variation-and-change-spring-2019"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "26e33bae-819e-47b5-a746-2778fcf79642",
+  "site_short_id": "24.914-spring-2019",
+  "site_url_path": "courses/24-914-language-variation-and-change-spring-2019",
+  "title": "Course Metadata"
+}

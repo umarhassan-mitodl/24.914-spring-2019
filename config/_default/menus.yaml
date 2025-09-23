@@ -1,0 +1,55 @@
+leftnav:
+- identifier: 0e4658ae-9f12-092e-e2ac-52652208e4d4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: de9e492c-3360-340a-512d-e20a90b97dbd
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 90b3b8f6-538f-0dc1-cf92-9b5bf116ab0a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: ad448cc4-037f-1356-6bd7-86087b7e9f32
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: dd6efe84-262f-6ded-affb-a7350fedfee8
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: b39c2a9e-c4a4-d1d2-9c8a-3d8353d22222
+  name: Phonetic transcription exercise
+  pageRef: /pages/assignments/phonetic-transcription-exercise
+  parent: dd6efe84-262f-6ded-affb-a7350fedfee8
+  weight: 60
+- identifier: e4f669db-18c9-fda6-9155-7493b164bcc3
+  name: '"Your vowels" exercise'
+  pageRef: /pages/assignments/your-vowels-exercise
+  parent: dd6efe84-262f-6ded-affb-a7350fedfee8
+  weight: 70
+- identifier: e4d20a86-179f-459c-2c2c-3321342d0a2c
+  name: "Short paper 1: What is /\xE6/-tensing?"
+  pageRef: /pages/assignments/what-is-ae-tensing
+  parent: dd6efe84-262f-6ded-affb-a7350fedfee8
+  weight: 80
+- identifier: 3e85ec97-f689-6310-5ece-d6d4dd022b31
+  name: 'Short paper 2: Lexical diffusion'
+  pageRef: /pages/assignments/short-paper-2-lexical-diffusion
+  parent: dd6efe84-262f-6ded-affb-a7350fedfee8
+  weight: 90
+- identifier: cb96fded-cade-ab94-cf79-bcf7e33437b5
+  name: 'Short paper 3: Computational models of sound change'
+  pageRef: /pages/assignments/short-paper-3-computational-models-of-sound-change
+  parent: dd6efe84-262f-6ded-affb-a7350fedfee8
+  weight: 100
+- identifier: 99015293-0386-5d08-736b-7bd5c4312d0f
+  name: Final paper
+  pageRef: /pages/assignments/final-paper
+  parent: dd6efe84-262f-6ded-affb-a7350fedfee8
+  weight: 110
+- identifier: 5342f6c4-5fd0-9625-1f79-74942566ca34
+  name: Additional Resources
+  pageRef: /pages/additional-resources
+  weight: 120
