@@ -28,6 +28,7 @@
     "website": "24-914-language-variation-and-change-spring-2019"
   },
   "course_title": "Language Variation and Change",
+  "hide_download": true,
   "course_description": "All languages vary across geographic space and between social groups, and languages are always changing. It makes sense to study these phenomena together because they are intimately related: language change is the basic source of language variation. So studying language change can help us to understand variation, and the nature of linguistic variation provides evidence as to how language changes. Both illuminate the nature of grammar. The course will focus largely on variation and change in phonetics and phonology, and most case studies will be drawn from the English language.\n",
   "department_numbers": [
     "24"
@@ -38,6 +39,7 @@
     "content": "85fecb93-c1af-e2c1-e8a2-301d3dda3c1a",
     "website": "24-914-language-variation-and-change-spring-2019"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"

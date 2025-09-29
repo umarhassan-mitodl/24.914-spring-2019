@@ -9,32 +9,32 @@ uid: 5342f6c4-5fd0-9625-1f79-74942566ca34
 video_metadata:
   youtube_id: null
 ---
-{{% resource_link "53f5459d-e0f5-408d-be22-92f692bb361b" "A National Map of the Regional Dialects of American English" %}} 
+[A National Map of the Regional Dialects of American English](https://www.ling.upenn.edu/phono_atlas/NationalMap/NationalMap.html) 
 
-{{% resource_link "baa314a5-47b9-46d4-9449-6a2ca57a3aba" "PhillyTawk: Overview of mid-Atlantic English, Part 1 (YouTube)" %}}
+[PhillyTawk: Overview of mid-Atlantic English, Part 1 (YouTube)](https://www.youtube.com/watch?v=yq9NBJ0sG48)
 
-{{% resource_link "b7665c42-9325-48ab-8eb7-60c184e237f1" "PhillyTawk: Overview of mid-Atlantic English, Part 3 (YouTube)" %}}
+[PhillyTawk: Overview of mid-Atlantic English, Part 3 (YouTube)](https://www.youtube.com/watch?v=QLDjE33_uRM)
 
-{{% resource_link "54f5d91b-a8b0-46e4-ad4b-0744f80c0738" "Linguistics Society of America (LSA) style sheet (PDF)" %}}
+[Linguistics Society of America (LSA) style sheet (PDF)](https://www.linguisticsociety.org/sites/default/files/style-sheet_0.pdf)
 
-{{% resource_link "a3c17ca1-0c0b-4f9a-ad2c-61af756773eb" "Word frequency data from the American National Corpus" %}}
+[Word frequency data from the American National Corpus](http://www.anc.org/data/anc-second-release/frequency-data/)
 
-{{% resource_link "aed648f1-a9ba-4573-a7bb-9826df41fa0b" "Praat (acoustic analysis software)" %}}
+[Praat (acoustic analysis software)](http://www.fon.hum.uva.nl/praat/)
 
-{{% resource_link "1dd59995-e60f-49a2-b5cf-abc5abbcb25b" "Full International Phonetic Alphabet (IPA) chart" %}}
+[Full International Phonetic Alphabet (IPA) chart](https://www.internationalphoneticassociation.org/content/full-ipa-chart)
 
-{{% resource_link "2c2fa1e4-2c57-4467-8af4-2162520af748" "IPA chart with recordings" %}}
+[IPA chart with recordings](https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html)
 
-{{% resource_link "9ec6127a-9ad0-4762-ba8f-5c43709e0b7f" "IPA Unicode keyboards" %}}
+[IPA Unicode keyboards](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=UniIPAKeyboard)
 
-{{% resource_link "82301fd7-0226-4dfe-89ec-de9dc20e9961" "IDEA (International Dialects of English Archive)" %}}
+[IDEA (International Dialects of English Archive)](https://www.dialectsarchive.com/)
 
-{{% resource_link "649c5c4d-2332-443e-a8a6-22a942ff046a" "Web CELEX (searchable lexical database)" %}}
+[Web CELEX (searchable lexical database)](http://celex.mpi.nl/)
 
-{{% resource_link "96beeedc-2ba4-4e62-bfb4-100d34a65f9c" "Key to DISC transcriptions in CELEX (PDF)" %}}
+[Key to DISC transcriptions in CELEX (PDF)](http://groups.linguistics.northwestern.edu/speech_comm_group/documents/CELEX/Phonetic%20codes%20for%20CELEX.pdf)
 
 {{% resource_link "8a6470eb-b430-8a0c-c874-f73fe24d7b61" "English lemmas in CELEX (TXT)" %}}
 
-{{% resource_link "b35ad5a5-47dd-48f2-90c9-03589228f013" "Google Ngram Viewer" %}}
+[Google Ngram Viewer](https://books.google.com/ngrams)
 
 {{% resource_link "ea4491df-6091-4278-551c-6a9e9c5bc3d0" "500 most frequent verbs of English (XLS)" %}}

@@ -62,7 +62,7 @@ kʰlæsp
 kʰlɑsp
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-Wells (1982) argues that these irregular correspondences are the result of a vowel lengthening change that was diffusing through the lexicon, but stopped before it affected all the words containing vowels in the relevant contexts. There is more data on this {{% resource_link "f8fbc73a-0132-4cf8-ae1f-9d71d933c7e3" "Wikipedia page" %}}.
+Wells (1982) argues that these irregular correspondences are the result of a vowel lengthening change that was diffusing through the lexicon, but stopped before it affected all the words containing vowels in the relevant contexts. There is more data on this [Wikipedia page](http://en.wikipedia.org/wiki/Phonological_history_of_English_short_A#Trap.E2.80.93bath_split_in_Received_Pronunciation).
 
 ### 2\. LOT-CLOTH split
 
@@ -102,7 +102,7 @@ klɔθ
 
 The ɒ > ɔ change seems to have applied more or less regularly before word-final fricatives, but seems to be irregular before medial fricatives (e.g. *foster*, but not *roster*), and has been extended in some dialects to apply before some voiced velar stops and nasals (*dog*, *long*), and a few alveolar nasals (usually just *on*, *gone*). So this change looks like a possible example of lexical diffusion.
 
-There are more data on this \[Wikipedia page\]({{% resource_link "c0692e4a-1b8a-47ac-85b5-05e43b73c373" "https://en.wikipedia.org/wiki/Phonological_history_of_English_low_back_vowels#LOT%E2%8" %}} 0%93CLOTH\_split). (Don’t take it on trust—it’s Wikipedia—but it’s a good starting place).
+There are more data on this \[Wikipedia page\]([https://en.wikipedia.org/wiki/Phonological_history_of_English_low_back_vowels#LOT%E2%8](https://en.wikipedia.org/wiki/Phonological_history_of_English_low_back_vowels#LOT%E2%8) 0%93CLOTH\_split). (Don’t take it on trust—it’s Wikipedia—but it’s a good starting place).
 
 It will be important to check etymologies of words—the sound change of interest involves Middle English short ‘o’ > \[ɔ\], but thought \[ɔ\] has many other sources. Spelling provides some indication of etymology, but it’s not a perfect guide.
 
@@ -149,8 +149,8 @@ For each sound change, I have some short readings and lists of relevant words, m
 
 ## Dictionaries
 
-- {{% resource_link "062c1a51-9f50-4d64-bcea-f17096e96bd1" "Oxford English Dictionary (OED)" %}} \[subscription required\]
-- {{% resource_link "b8b2835b-e9f3-4d45-a312-0d63156c0ebc" "American Heritage Dictionary" %}}
+- [Oxford English Dictionary (OED)](https://www.oed.com/) \[subscription required\]
+- [American Heritage Dictionary](https://www.ahdictionary.com/)
 
 The OED records UK and US pronunciations. The UK pronunciations are mostly RP English (e.g. they show the trap-bath split). The US pronunciations include those exemplifying the LOT-CLOTH split. The American Heritage Dictionary reports US pronunciation.
 
@@ -160,6 +160,6 @@ The OED also contains dates of first recorded uses of words.
 
 ## Word frequency information
 
-Use the spoken part of the {{% resource_link "a3c17ca1-0c0b-4f9a-ad2c-61af756773eb" "American National Corpus" %}}.
+Use the spoken part of the [American National Corpus](http://www.anc.org/data/anc-second-release/frequency-data/).
 
 Recordings and acoustic analysis—talk to me if you’d like help making a recording in phonetics lab.
