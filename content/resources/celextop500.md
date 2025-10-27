@@ -4,8 +4,6 @@ description: ''
 file: /courses/24-914-language-variation-and-change-spring-2019/ea4491df60914278551c6a9e9c5bc3d0_CELEXTop500.xls
 file_size: 140288
 file_type: application/vnd.ms-excel
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

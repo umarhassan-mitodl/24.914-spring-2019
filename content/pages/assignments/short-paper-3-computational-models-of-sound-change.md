@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,21 +24,21 @@ Our list of properties of sound change may be useful in evaluating models. Also 
 Suggested papers
 ----------------
 
-Ettlinger, Marc (2007) [Shifting Categories: An exemplar-based computational model of chain shifts (PDF)](http://linguistics.berkeley.edu/phonlab/documents/2007/op463-ettlinger1.pdf). _UC Berkeley Phonology Lab Annual Report,_ pp. 177–182_._
+Ettlinger, Marc (2007) {{% resource_link "010d37ff-c56b-4809-ac9f-cb441c4812e6" "Shifting Categories: An exemplar-based computational model of chain shifts (PDF)" %}}. _UC Berkeley Phonology Lab Annual Report,_ pp. 177–182_._
 
-Johnson, Keith, and Garrett, Andrew (2013) [Phonetic bias in sound change (PDF - 2.9 MB)](http://linguistics.berkeley.edu/phonlab/documents/2011/Garrett_Johnson_2011.pdf). Alan Yu (ed.) _Origins of Sound Change: Approaches to Phonologization._ Oxford University Press, pp. 9–61.
+Johnson, Keith, and Garrett, Andrew (2013) {{% resource_link "3a00b900-e198-46d4-8da4-aaae01e48801" "Phonetic bias in sound change (PDF - 2.9 MB)" %}}. Alan Yu (ed.) _Origins of Sound Change: Approaches to Phonologization._ Oxford University Press, pp. 9–61.
 
 *   Focus on section 3.6 ‘A model of actuation’. This section proposes models of the actuation of sound change, an issue that is set aside by Pierrehumbert and many other computational models of change.
 
-Sóskuthy, Márton (2015) [Understanding change through stability: A computational study of sound change actuation](https://www.sciencedirect.com/science/article/pii/S0024384115001011). _Lingua_ 163, 40–60.
+Sóskuthy, Márton (2015) {{% resource_link "91d694eb-f660-40cc-b8ae-046178c7d876" "Understanding change through stability: A computational study of sound change actuation" %}}. _Lingua_ 163, 40–60.
 
 *   I plan to discuss this paper in class, so you’ll need to coordinate with me if you’d like to discuss it, but it includes R code for the model presented. Proposes an account of actuation.
 
-Todd, Simon, Pierrehumbert, Janet B., & Hay, Jennifer (2019) [Word frequency effects in sound change as a consequence of perceptual asymmetries: An exemplar-based model](https://www.sciencedirect.com/science/article/pii/S0010027719300046?via%3Dihub). _Cognition_ 185, 1–20.
+Todd, Simon, Pierrehumbert, Janet B., & Hay, Jennifer (2019) {{% resource_link "e08383fe-7ff6-4090-aa7d-30886500ec62" "Word frequency effects in sound change as a consequence of perceptual asymmetries: An exemplar-based model" %}}. _Cognition_ 185, 1–20.
 
 *   This paper may not be the best option because it presents a pretty complicated model designed to account for a relatively narrow set of phenomena (frequency effects on sound change), but it builds directly on Pierrehumbert (2001) and comes with Python code.
 
-Wedel, Andrew (2006) [Exemplar models, evolution and language change (PDF)](https://chd.ucsd.edu/_files/fall2008/Wedel.2006.TLR.pdf). _The Linguistic Review_ 23, 247–274.
+Wedel, Andrew (2006) {{% resource_link "81c081c1-1e7d-4dbf-b6af-9bc892ce864b" "Exemplar models, evolution and language change (PDF)" %}}. _The Linguistic Review_ 23, 247–274.
 
 *   Exemplar model inspired by evolutionary theory.
 
